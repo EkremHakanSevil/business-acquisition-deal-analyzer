@@ -4,7 +4,7 @@
 
 **Should you buy this small business, and at what price?** An Excel / Google Sheets model for people buying a small business, typically with an SBA-style loan and seller financing. It turns the seller's financials into normalized earnings, a valuation range, the maximum price the cash flow can support, lender coverage checks and a 10-year return on your cash.
 
-**[Get it on Etsy](https://www.etsy.com/shop/LaneLedgerCo)** · **[Download the free demo](demo/Business_Acquisition_Analyzer_FREE_DEMO.xlsx?raw=1)** · Part of [LaneLedger Co.](https://github.com/EkremHakanSevil/laneledger-spreadsheet-tools)
+**[View on Etsy](https://www.etsy.com/listing/4602388755/business-acquisition-analyzer-buy-a)** · **[Download the free demo](demo/Business_Acquisition_Analyzer_FREE_DEMO.xlsx?raw=1)** · Part of [LaneLedger Co.](https://github.com/EkremHakanSevil/laneledger-spreadsheet-tools)
 
 ![Business Acquisition Deal Analyzer](screenshots/01_hero.jpg)
 
