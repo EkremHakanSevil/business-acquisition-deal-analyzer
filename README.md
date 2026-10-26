@@ -8,6 +8,8 @@
 
 ![Business Acquisition Deal Analyzer](screenshots/01_hero.jpg)
 
+🎬 **[Watch the 13-second product video](video/product_video.mp4)**
+
 ## The problem
 
 Buying an existing business is one of the biggest financial decisions a person makes, and the analysis is hard: reported profit hides the owner's pay and perks, asking prices are set by sellers, and lenders decide on debt service coverage, not on the asking price. Free online calculators handle a single scenario; full models usually require a CPA or an advisor.
